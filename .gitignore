@@ -1,0 +1,7 @@
+.idea/
+
+*.pkl
+*.exe
+LICENSE.chromedriver
+
+Pipfile
